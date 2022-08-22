@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/danielskwar/static/css/main.1746cda5.css",
-    "main.js": "/danielskwar/static/js/main.c09b7dbd.js",
+    "main.js": "/danielskwar/static/js/main.fece10ec.js",
     "static/media/weatherapp.png": "/danielskwar/static/media/weatherapp.ef03fa3b9ca226663ead.png",
     "static/media/todolist.png": "/danielskwar/static/media/todolist.7ef78b1f97e7eb486e0e.png",
     "static/media/ceneoscraper.png": "/danielskwar/static/media/ceneoscraper.bf75962cf9fbf64131fb.png",
@@ -10,10 +10,10 @@
     "static/media/discordbot.png": "/danielskwar/static/media/discordbot.88036490880899ca0b07.png",
     "index.html": "/danielskwar/index.html",
     "main.1746cda5.css.map": "/danielskwar/static/css/main.1746cda5.css.map",
-    "main.c09b7dbd.js.map": "/danielskwar/static/js/main.c09b7dbd.js.map"
+    "main.fece10ec.js.map": "/danielskwar/static/js/main.fece10ec.js.map"
   },
   "entrypoints": [
     "static/css/main.1746cda5.css",
-    "static/js/main.c09b7dbd.js"
+    "static/js/main.fece10ec.js"
   ]
 }
